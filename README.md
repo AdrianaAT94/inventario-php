@@ -1,2 +1,2 @@
 # inventario-php
-Aplicación de inventario PHP
+Aplicación de inventario PHP.
